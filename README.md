@@ -9,6 +9,15 @@
 - start the server by running the command python app.py runserver
 - Navigate to http://127.0.0.1:5000/
 
-## roject Presentation
+## Project Presentation
 https://docs.google.com/presentation/d/1yhSgf7cp-UN5xoyNKzMdhFd_kLF7IR-gKrm4XKWK5M0/edit?usp=sharing
+
+
+## ScreenShot of the UI
+
+![image](https://user-images.githubusercontent.com/89537171/169963464-d7057725-af64-4aa7-884e-0bfcf863d953.png)
+
+![image](https://user-images.githubusercontent.com/89537171/169963482-72ac911e-92fe-4791-9743-9a7efea13124.png)
+![image](https://user-images.githubusercontent.com/89537171/169963496-1154ee71-4e3b-4d8d-ab91-23576a72231b.png)
+![image](https://user-images.githubusercontent.com/89537171/169963505-bd47ac62-0bed-4b91-bc24-2d45802aa98a.png)
 
