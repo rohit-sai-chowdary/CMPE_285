@@ -1,0 +1,113 @@
+{
+  "Ethical Investing": [
+    {
+      "symbol": "NSRGY",
+      "name": "Nestle S.A.",
+      "percentage": "12"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "percentage": "25"
+    },
+ 
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc.",
+      "percentage": "37"
+    },
+    {
+      "symbol":"ADBE",
+      "name":"Adobe Inc",
+      "percentage":"26"
+    }
+  ],
+  "Growth Investing": [
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "percentage": "26"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc",
+      "percentage": "29"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "percentage": "20"
+    },
+    {
+      "symbol": "FB",
+      "name": "Meta Platforms, Inc",
+      "percentage": "25"
+    }
+  ],
+  "Index Investing": [
+    {
+      "symbol": "DXCM",
+      "name": "DexCom, Inc",
+      "percentage": "10"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "percentage": "35"
+    },
+    {
+      "symbol": "UNH",
+      "name": "United Health Group Inc",
+      "percentage": "23"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc",
+      "percentage": "32"
+    }
+  ],
+  "Quality Investing": [
+    {
+      "symbol": "UNF",
+      "name": "UniFirst Corp",
+      "percentage": "37"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "percentage": "28"
+    },
+    {
+      "symbol": "MA",
+      "name": "Master Card Inc",
+      "percentage": "22"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc",
+      "percentage": "13"
+    }
+  ],
+  "Value Investing": [
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "percentage": "25"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "percentage": "35"
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "percentage": "15"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola Company",
+      "percentage": "25"
+    }
+  ]
+}

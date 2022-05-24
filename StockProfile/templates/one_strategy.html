@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+</head>
+
+<body style="background-color: cornsilk;">
+
+    <form  style="font-family:san-serif;background-color: azure;font-size: small;">
+        <h2>
+
+            <center>Portfolio value : {{ name }} </center> <br />
+                  <center>Stocks Chosen : {{ stock1 }}, {{ stock2 }},{{ stock3 }}, {{ stock4 }} </center> <br />
+            <center>Selected Investment strategy {{ strategy }} </center> <br />
+            <p>
+            <center>Current value of a Single share of {{ stock1 }} is {{stock1_price }}$ </center> <br/>
+            <center>Total Invested money in {{ stock1 }} is {{ stock1_money }} </center> <br />
+            </p>
+            <p>
+            <center>Current value of a Single share of {{ stock2 }} is {{stock2_price }} </center> <br/>
+            <center>Invested money in {{ stock2 }} is {{ stock2_money }} </center> <br />
+            </p>
+            <p>
+            <center>Current value of a Single share of {{ stock3 }} is {{stock3_price }}</center><br/>
+            <center>Invested money in {{ stock3 }} is {{ stock3_money }} </center> <br />
+            </p>
+            <p>
+            <center>Current value of a Single share of {{ stock4 }} is {{stock4_price }}</center><br/>
+            <center>Invested money in {{ stock4 }} is {{ stock4_money }} </center> <br />
+            </p>
+            <center><img src={{ url_pie }} alt="Image not found"/> </center> <br />
+            <center><img src={{ url}} alt="Image not found"/> </center> <br />
+
+
+        </h2>
+    </form>
+
+
+
+</body>
+
+</html>
